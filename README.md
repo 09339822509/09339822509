@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @09339822509
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-09339822509/09339822509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Visual visionary video mappi g
+- 🌱 I’m currently learning AE and Resolume
+- 💞️ I’m looking to collaborate on Video art and concerts
+- 📫 How to reach me Warlockvisionary@gmail.com
+  welcome !
